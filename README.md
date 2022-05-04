@@ -18,13 +18,9 @@
 <br>
 <br>
 <br>
-![](https://img.shields.io/github/followers/juannobert.svg?style=social&label=Follow&maxAge=2592000)
-
-<br>
-<br>
 ![](https://github-readme-stats.vercel.app/api?username=juannobert&theme=blue-green)
 <br>
 <br>
-<br>
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juannobert&theme=blue-green)
+![](	https://github-readme-stats.vercel.app/api/top-langs/?username=juannobert&theme=blue-green)
+
+
