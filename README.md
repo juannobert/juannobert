@@ -1,7 +1,6 @@
 ### Hi i'm Juan Nobert 👋
 <hr>
 <ul>
-  
   <li>
     :boy: Hello, my name is Juan Nobert, I'm 15 years old and I'm currently in the 2nd year of the IT course at Instituto Federal De Sergipe
   </li>
@@ -9,6 +8,7 @@
     :books: I'm studying to become a back end programmer and I'm learning the following technologies: Java,Spring,JavaScript,Angular and TypeScript
   </li>
 </ul>
+### contacts
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -17,6 +17,7 @@
 <br>
 <br>
 <br>
+###Languages and Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
