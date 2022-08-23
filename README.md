@@ -5,7 +5,7 @@
     :boy: Hello, my name is Juan Nobert, I'm 15 years old and I'm currently in the 2nd year of the IT course at Instituto Federal De Sergipe
   </li>
   <li>
-    :books: I'm studying to become a back end programmer and I'm learning the following technologies: Java,Spring,JavaScript,Angular and TypeScript
+    :books: I'm studying to become a back end programmer and I'm learning the following technologies: Java,Spring,JavaScript
   </li>
 </ul>
 
